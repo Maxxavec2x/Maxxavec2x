@@ -14,4 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Computer security student
+🎓 Computer engineering student with a strong focus on cybersecurity, passionate about open-source technologies, game modding, and software development in general. I'm currently studying at INSA Centre Val de Loire in France, and working for Thales SIX GTS France.
+🔐 I specialize in system and network security, and I enjoy exploring both how systems work — and how they can be broken.
+🎮 Game modding introduced me to the creative side of coding, and I’ve been building, tweaking, and learning ever since.
+🌍 Always open to collaborating on meaningful open-source projects — feel free to reach out!
